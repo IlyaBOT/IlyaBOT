@@ -8,6 +8,10 @@ My computer:
 |                                                                            |                             | DIMM3: Samsung M3 78T5663EH3-CF7 (2GB) |                    |                      |                                      |
 |                                                                            |                             | DIMM4: Samsung M3 78T5663EH3-CF7 (2GB) |                    |                      |                                      |
 
-
+My server:
+|                  **CPU**                 |         **GPU**        |                **RAM**                |    **Storage**    |               **Motherboard**               |              **PSU**              |
+|:----------------------------------------:|:----------------------:|:-------------------------------------:|:-----------------:|:-------------------------------------------:|:---------------------------------:|
+| Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz | Intel HD Graphics 3000 |   DIMM1: ASint SSY3128M8-EDJEF (1GB)  | 500GB HDD Toshiba | Hewlett-Packard HP Pavilion dv6 Notebook PC | AC Adapter Series PPP012L-E [90W] |
+|                                          |                        | DIMM3: Elpida EBJ41UF8BCS0-DJ-F (4GB) |                   |                                             |                                   |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyabot&show_icons=true&theme=radical)
