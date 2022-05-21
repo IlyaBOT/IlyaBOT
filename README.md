@@ -8,7 +8,7 @@ My computer:
 |                                   **CPU**                                  |           **GPU**           |                  **RAM**                 |     **Storage**    |    **Motherboard**   |                **PSU**               |
 |:--------------------------------------------------------------------------:|:---------------------------:|:----------------------------------------:|:------------------:|:--------------------:|:------------------------------------:|
 | Intel(R) Xeon(R) CPU L5408 @ 2.13GHz<br>Overclocked to 3.1 GHz (8 x 0.388) | Zotac nVidia GeForce 9600GT | DIMM1-4: Samsung M3 78T5663EH3-CF7 (2GB) | 120GB SSD Smartbuy | Gigabyte GA-P35-DS3L | AeroCool VX-350 [Manually Updgraded] |
-|                                                                            |                             |                                          |  500GB HDD Seagate |                      |                                      |
+|                                                                            |                             |                                          |  500GB HDD Seagate |                      |                                      |                     |                                      |
 
 My server:
 |                  **CPU**                 |         **GPU**        |                **RAM**                |    **Storage**    |               **Motherboard**               |              **PSU**              |
