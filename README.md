@@ -11,7 +11,7 @@ My computer:
 |                                                                              |                             |                                          |     500GB HDD Seagate     |                      |                                      |
 |                                                                              |                             |                                          | 500GB HDD WD Scorpio Blue |                      |                                      |                    |                                      |                     |                                      |
 
-My server:
+My [server](http://ibifs.ddns.net/):
 |                  **CPU**                 |         **GPU**        |                **RAM**                |    **Storage**    |               **Motherboard**               |              **PSU**              |
 |:----------------------------------------:|:----------------------:|:-------------------------------------:|:-----------------:|:-------------------------------------------:|:---------------------------------:|
 | Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz | Intel HD Graphics 3000 |   DIMM1: ASint SSY3128M8-EDJEF (1GB)  | 500GB HDD Toshiba | Hewlett-Packard HP Pavilion dv6 Notebook PC | AC Adapter Series PPP012L-E [90W] |
