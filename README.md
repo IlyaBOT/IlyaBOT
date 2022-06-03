@@ -5,11 +5,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyabot&langs_count=6&layout=compact&theme=radical)
 
 My computer:
-|                                    **CPU**                                   |           **GPU**           |                  **RAM**                 |        **Storage**        |    **Motherboard**   |                **PSU**               |
-|:----------------------------------------------------------------------------:|:---------------------------:|:----------------------------------------:|:-------------------------:|:--------------------:|:------------------------------------:|
-| Intel(R) Xeon(R) CPU E5440 @ 2.83GHz<br>Overclocked to 3.6 GHz (8.5 x 0,424) | Zotac nVidia GeForce 9600GT | DIMM1-4: Samsung M3 78T5663EH3-CF7 (2GB) |     120GB SSD Smartbuy    | Gigabyte GA-P35-DS3L | AeroCool VX-350 [Manually Updgraded] |
-|                                                                              |                             |                                          |     500GB HDD Seagate     |                      |                                      |
-|                                                                              |                             |                                          | ~~500GB HDD WD Scorpio Blue~~ (Dying) |                      |                                      |                    |                                      |                     |                                      |
+|                                    **CPU**                                   |           **GPU**           |                  **RAM**                 |     **Storage**    |    **Motherboard**   |                **PSU**               |
+|:----------------------------------------------------------------------------:|:---------------------------:|:----------------------------------------:|:------------------:|:--------------------:|:------------------------------------:|
+| Intel(R) Xeon(R) CPU E5440 @ 2.83GHz<br>Overclocked to 3.6 GHz (8.5 x 0,424) | Zotac nVidia GeForce 9600GT | DIMM1-4: Samsung M3 78T5663EH3-CF7 (2GB) | 120GB SSD Smartbuy | Gigabyte GA-P35-DS3L | AeroCool VX-350 [Manually Updgraded] |
+|                                                                              |                             |                                          |  500GB HDD Seagate |                      |                                      |
 
 My [server](http://ibifs.ddns.net/):
 |                  **CPU**                 |         **GPU**        |                **RAM**                |    **Storage**    |               **Motherboard**               |              **PSU**              |
