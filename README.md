@@ -7,7 +7,7 @@
 My computer:
 |                 **CPU**                |           **GPU**           |               **RAM**               |     **Storage**    | **Motherboard** |                **PSU**               |
 |:--------------------------------------:|:---------------------------:|:-----------------------------------:|:------------------:|:---------------:|:------------------------------------:|
-| Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz | Zotac nVidia GeForce 9600GT | DIMM1-2: Kingston 99U5471-012 (4GB) | 120GB SSD Smartbuy |    Wovibo H55   | FSP 450 [Manually Updgraded] |
+| Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz | Zotac nVidia GeForce 9600GT | DIMM1-2: Kingston 99U5471-012 (4GB) | 120GB SSD Smartbuy |    Wovibo H55   | FSP 400W [Manually Updgraded] |
 |                                        |                             |                                     |  500GB HDD Seagate |                 |                                      |
 |                                        |                             |                                     | 500 GB HDD TOSHIBA |                 |                                      |
 
