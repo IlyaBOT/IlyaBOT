@@ -7,7 +7,7 @@
 My computer:
 |                 **CPU**                |           **GPU**           |               **RAM**               |     **Storage**    | **Motherboard** |                **PSU**               |
 |:--------------------------------------:|:---------------------------:|:-----------------------------------:|:------------------:|:---------------:|:------------------------------------:|
-| Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz | MSI GeForce RTX™ 3060 GAMING X TRIO 12G | DIMM1-2: Kingston 99U5471-012 (4GB) | 120GB SSD Smartbuy |    Wovibo H55   | 600W be quiet! Pure Power 11 (BN294) |
+| Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz | [MSI GeForce RTX™ 3060 GAMING X TRIO 12G](https://www.msi.com/Graphics-Card/GeForce-RTX-3060-GAMING-X-TRIO-12G#FinAirflow-href) | DIMM1-2: Kingston 99U5471-012 (4GB) | 120GB SSD Smartbuy |    Wovibo H55   | [600W be quiet! Pure Power 11 (BN294)](https://www.bequiet.com/en/powersupply/1543) |
 |                                        |                             |                                     |  500GB HDD Seagate |                 |                                      |
 |                                        |                             |                                     | 500 GB HDD TOSHIBA |                 |                                      |
 
