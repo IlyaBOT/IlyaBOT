@@ -4,14 +4,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyabot&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyabot&langs_count=6&layout=compact&theme=radical)
 
-My computer:
+My computer [OS: Windows 11 Pro]:
 |                 **CPU**                |           **GPU**           |               **RAM**               |     **Storage**    | **Motherboard** |                **PSU**               |
 |:--------------------------------------:|:---------------------------:|:-----------------------------------:|:------------------:|:---------------:|:------------------------------------:|
 | Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz | [MSI GeForce RTX™ 3060 GAMING X TRIO 12G](https://www.msi.com/Graphics-Card/GeForce-RTX-3060-GAMING-X-TRIO-12G#FinAirflow-href) | DIMM1-2: Kingston 99U5471-012 (4GB) | 120GB SSD Smartbuy |    Wovibo H55   | [600W be quiet! Pure Power 11 (BN294)](https://www.bequiet.com/en/powersupply/1543) |
 |                                        |                             |                                     |  500GB HDD Seagate |                 |                                      |
 |                                        |                             |                                     | 500 GB HDD TOSHIBA |                 |                                      |
 
-My [server](http://ibifs.ddns.net/):
+My [server](http://ibifs.ddns.net/) [OS: Windows 10 Pro]:
 |                  **CPU**                 |         **GPU**        |                **RAM**                |    **Storage**    |               **Motherboard**               |              **PSU**              |
 |:----------------------------------------:|:----------------------:|:-------------------------------------:|:-----------------:|:-------------------------------------------:|:---------------------------------:|
 | Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz | Intel HD Graphics 3000 |   DIMM1: ASint SSY3128M8-EDJEF (1GB)  | 500GB HDD Toshiba | Hewlett-Packard HP Pavilion dv6 Notebook PC | AC Adapter Series PPP012L-E [90W] |
