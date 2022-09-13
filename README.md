@@ -14,4 +14,4 @@ My computer [OS: Windows 11 Pro]:
 My [server](http://ibifs.ddns.net/) [OS: Windows 10 Pro]:
 |                **CPU**               | **GPU** |                     **RAM**                    |    **Storage**    |    **Motherboard**   |            **PSU**           |
 |:------------------------------------:|:-------:|:----------------------------------------------:|:-----------------:|:--------------------:|:----------------------------:|
-| Intel(R) Xeon(R) CPU L5408 @ 2.13GHz |   NONE  | DIMM1-4: DIMM1: Samsung M3 78T5663EH3-CF7(2GB) | 500GB HDD Toshiba | Gigabyte GA-P35-DS3L | FSP 400W [Manually upgraded] |
+| Intel(R) Xeon(R) CPU L5408 @ 2.13GHz |   -  | DIMM1-4: Samsung M3 78T5663EH3-CF7(2GB) | 500GB HDD Toshiba | Gigabyte GA-P35-DS3L | FSP 400W [Manually upgraded] |
