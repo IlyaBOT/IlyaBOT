@@ -7,11 +7,11 @@
 My computer [OS: Windows 11 Pro]:
 |                 **CPU**                |           **GPU**           |               **RAM**               |     **Storage**    | **Motherboard** |                **PSU**               |
 |:--------------------------------------:|:---------------------------:|:-----------------------------------:|:------------------:|:---------------:|:------------------------------------:|
-| Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz | [MSI GeForce RTX™ 3060 GAMING X TRIO 12G](https://www.msi.com/Graphics-Card/GeForce-RTX-3060-GAMING-X-TRIO-12G#FinAirflow-href) | DIMM1-2: Kingston 99U5471-012 (4GB) | 120GB SSD Smartbuy |    Wovibo H55   | [600W be quiet! Pure Power 11 (BN294)](https://www.bequiet.com/en/powersupply/1543) |
+| Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz | [MSI GeForce RTX™ 3060 GAMING X TRIO 12G](https://www.msi.com/Graphics-Card/GeForce-RTX-3060-GAMING-X-TRIO-12G#FinAirflow-href) | Kingston 99U5471-012 (4GB) x2 | 120GB SSD Smartbuy |    Wovibo H55   | [600W be quiet! Pure Power 11 (BN294)](https://www.bequiet.com/en/powersupply/1543) |
 |                                        |                             |                                     |  500GB HDD Seagate |                 |                                      |
 |                                        |                             |                                     | 500 GB HDD TOSHIBA |                 |                                      |
 
 My [server](http://ibifs.ddns.net/) [OS: Windows 10 Pro]:
 |                **CPU**               | **GPU** |                     **RAM**                    |    **Storage**    |    **Motherboard**   |            **PSU**           |
 |:------------------------------------:|:-------:|:----------------------------------------------:|:-----------------:|:--------------------:|:----------------------------:|
-| Intel(R) Xeon(R) CPU L5408 @ 2.13GHz |   -  | DIMM1-4: Samsung M3 78T5663EH3-CF7(2GB) | 500GB HDD Toshiba | Gigabyte GA-P35-DS3L | FSP 400W [Manually upgraded] |
+| Intel(R) Xeon(R) CPU L5408 @ 2.13GHz |   -  | Samsung M3 78T5663EH3-CF7(2GB) x4 | 500GB HDD Toshiba | Gigabyte GA-P35-DS3L | FSP 400W [Manually upgraded] |
