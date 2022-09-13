@@ -12,7 +12,6 @@ My computer [OS: Windows 11 Pro]:
 |                                        |                             |                                     | 500 GB HDD TOSHIBA |                 |                                      |
 
 My [server](http://ibifs.ddns.net/) [OS: Windows 10 Pro]:
-|                  **CPU**                 |         **GPU**        |                **RAM**                |    **Storage**    |               **Motherboard**               |              **PSU**              |
-|:----------------------------------------:|:----------------------:|:-------------------------------------:|:-----------------:|:-------------------------------------------:|:---------------------------------:|
-| Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz | Intel HD Graphics 3000 |   DIMM1: ASint SSY3128M8-EDJEF (1GB)  | 500GB HDD Toshiba | Hewlett-Packard HP Pavilion dv6 Notebook PC | AC Adapter Series PPP012L-E [90W] |
-|                                          |                        | DIMM3: Elpida EBJ41UF8BCS0-DJ-F (4GB) |                   |                                             |                                   |
+|                **CPU**               | **GPU** |                     **RAM**                    |    **Storage**    |    **Motherboard**   |            **PSU**           |
+|:------------------------------------:|:-------:|:----------------------------------------------:|:-----------------:|:--------------------:|:----------------------------:|
+| Intel(R) Xeon(R) CPU L5408 @ 2.13GHz |   NONE  | DIMM1-4: DIMM1: Samsung M3 78T5663EH3-CF7(2GB) | 500GB HDD Toshiba | Gigabyte GA-P35-DS3L | FSP 400W [Manually upgraded] |
