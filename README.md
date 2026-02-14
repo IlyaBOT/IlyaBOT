@@ -1,8 +1,8 @@
 ## Hi! I'm IlyaBOT.
 ### Just a technician from Donetsk, who likes to dig into hardware, and does not deny himself in writing code. At the moment I am programming in: [![C++](https://img.shields.io/badge/C++-%23f34b7d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) ![Python](https://img.shields.io/badge/python-%233572a5.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyabot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyabot&langs_count=6&layout=compact&theme=radical)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 My computer [OS: Linux Mint 22 XFCE (Main. For work) + Windows 11 LTSC (For Games and Video editing)]:
 |                                                   **CPU**                                                  |                                                             **GPU**                                                             |                                                        **RAM**                                                        |                                                       **Storage**                                                       |                              **Motherboard**                              |                                       **PSU**                                       |
