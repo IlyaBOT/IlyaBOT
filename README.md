@@ -8,17 +8,27 @@ I build web services and full-stack applications, automate deployments, and main
 
 <br clear="left" />
 
-## Toolbox
+## Technical Skills
 
 | Area | Technologies |
 | --- | --- |
 | Backend | Python, FastAPI, Node.js, REST APIs, SQLAlchemy, Alembic, Prisma |
 | Frontend | TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS |
 | Data | PostgreSQL, MySQL/MariaDB, SQLite, relational database design |
-| Infrastructure | Linux, Docker, Docker Compose, Nginx, Proxmox VE, LXC, systemd, Bash, Git, GitHub Actions |
-| Systems | C, C++17, C#, CMake, serial communication, cross-platform development |
-| Embedded | RP2040, ESP32/ESP8266, STM32, Arduino/AVR, UART, GPIO |
+| DevOps & Self-hosting | Docker, Docker Compose, Nginx, Proxmox VE, LXC, Bash scripting, GitHub Actions |
+| Programming & Build Tools | C, C++17, C#, CMake, Assembly (MASM32, ASM48), cross-platform development |
+| Operating Systems | Windows 3.11–11, Linux (Debian- and Arch-based distributions), macOS 10.13–15, legacy Hackintosh systems\* |
+| Embedded | Arduino/AVR, ESP32/ESP8266, nRF52840, RP2040 |
+| Hardware & Networking | Custom PC builds, custom servers built from consumer hardware, basic MikroTik configuration |
+| CAD & 3D Printing | Autodesk Fusion 360, Anycubic Kobra 2 Neo |
 | Local AI | Ollama, llama.cpp, Open WebUI, ComfyUI, GGUF models, CPU/GPU inference |
+
+<details>
+<summary><strong>* Legacy Hackintosh details</strong></summary>
+
+This Hackintosh ran on an HP Pavilion dv6-6c51er (Intel Sandy Bridge). It booted through OpenCore in legacy BIOS mode without UEFI, with its SMBIOS configured to identify the system as a 13-inch MacBook Pro (2011).
+
+</details>
 
 ## Hardware lab
 
