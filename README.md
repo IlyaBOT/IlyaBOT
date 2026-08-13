@@ -1,29 +1,82 @@
-## Hi! I'm IlyaBOT.
-### Just a technician from Donetsk, who likes to dig into hardware, and does not deny himself in writing code. At the moment I am programming in: [![C++](https://img.shields.io/badge/C++-%23f34b7d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) ![Python](https://img.shields.io/badge/python-%233572a5.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+# Hi, I'm IlyaBOT!
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<img align="left" width="300" src="./profile/top-langs.svg" alt="Most used languages" />
 
-My computer [OS: EndeavourOS with KDE + Windows 11 LTSC (For Games and Video editing)]:
-|                                                   **CPU**                                                  |                                                             **GPU**                                                             |                                                        **RAM**                                                        |                                                       **Storage**                                                       |                              **Motherboard**                              |                                       **PSU**                                       |
-|:----------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-| [AMD Ryzen 7 5700X 3.6 GHz (Overclocked to 4.4GHz)](https://www.amd.com/en/products/cpu/amd-ryzen-7-5700x) | [MSI GeForce RTX™ 3060 GAMING X TRIO 12G](https://www.msi.com/Graphics-Card/GeForce-RTX-3060-GAMING-X-TRIO-12G#FinAirflow-href) | [DDR4 GOODRAM IRDM PRO HOLLOW WHITE 16Gb x2 (32 Gb)](https://www.goodram.com/ru/products/irdm-pro-ddr4-hollow-white/) |                                         256GB Patriot NVMe P300 (SSD For Linux)                                         | [MSI MAG B550 TOMAHAWK](https://ru.msi.com/Motherboard/MAG-B550-TOMAHAWK) | [600W be quiet! Pure Power 11 (BN294)](https://www.bequiet.com/en/powersupply/1543) |
-|                                                                                                            |                                                                                                                                 |                                                                                                                       |                                   480GB SSD TEAM T253X5480G (SSD For Windows & Games)                                   |                                                                           |                                                                                     |
-|                                                                                                            |                                                                                                                                 |                                                                                                                       | 500 GB 3.5" HDD WD Blue WD5000AAKX-0 (HDD for Apps and Library folders, like Music, Images, Videos, Downloads and etc.) |                                                                           |                                                                                     |
-|                                                                                                            |                                                                                                                                 |                                                                                                                       |            1TB 2.5" HDD TOSHIBA MQ01ABD1 (HDD for Games and some software, like emulators, iventoy and etc.)            |                                                                           |                                                                                     |
-|                                                                                                            |                                                                                                                                 |                                                                                                                       |   1TB RAID0 (500 GB 2.5" HDD Seagate ST500LT012 + 500 GB 2.5" HDD TOSHIBA MQ01ABD0) (HDDs for games and garbage files)  |                                                                           |                                                                                     |
-|                                                                                                            |                                                                                                                                 |                                                                                                                       |                                500 GB 2.5" HDD TOSHIBA MK5076GS (HDD for games and garbage files on Linux)                                |                                                                           |                                                                                     |
+**Backend / Full-Stack Engineer · Systems Programming Student**
 
-My **new** [main server](https://ibifs.ddns.net/) [OS: Proxmox]:
-|                                                                           **CPU**                                                                           |                                                                                   **GPU**                                                                                   |               **RAM**              |                    **Storage**                   |                                                     **Motherboard**                                                    |                          **PSU**                         |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------:|:------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|
-| [Intel Core i3-10105](https://www.intel.com/content/www/us/en/products/sku/201894/intel-core-i310105-processor-6m-cache-up-to-4-40-ghz/specifications.html) | [Intel UHD Graphics 630](https://www.intel.com/content/www/us/en/support/products/126790/graphics/processor-graphics/intel-uhd-graphics-family/intel-uhd-graphics-630.html) | 32 Gb (8*4) of Chineese RAM sticks |       128Gb TeamGroup NVMe TM8FP6128G0C101       | [ASUS ROG STRIX B560-A GAMING WIFI](https://rog.asus.com/ru/motherboards/rog-strix/rog-strix-b560-g-gaming-wifi-model) | [AeroCool SX-400](https://aerocool.io/ru/product/sx-400) |
-|                                                                                                                                                             |                                                                                                                                                                             |                                    | 120 GB SSD NoName (IB-Craft) |                                                                                                                        |                                                          |
-|                                                                                                                                                             |                                                                                                                                                                             |                                    | 960 GB SSD Goldenfir (HFS)                  |                                                                                                                        |                                                          |
-|                                                                                                                                                             |                                                                                                                                                                             |                                    | 500 GB SSD Patriot (Torrent+Backups)        |                                                                                                                        |                                                          |
+I build web services and full-stack applications, automate deployments, and maintain Linux infrastructure. My main stack is Python/FastAPI, TypeScript/React/Next.js, PostgreSQL, and Docker. I also work with C/C++, embedded systems, networking, virtualization, and local AI tooling.
 
-My old server:
-|                                                                               **CPU**                                                                               |        **RAM**        |       **Storage**      |                       **Motherboard**                      |  **PSU** |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|:----------------------:|:----------------------------------------------------------:|:--------:|
-| [Intel(R) Xeon(R) CPU X3430 @ 2.4GHz](https://www.intel.com/content/www/us/en/products/sku/42929/intel-xeon-processor-x3430-8m-cache-2-40-ghz.html) | DDR3 KingSpec 8Gb |    120 GB SSD SmartBuy (OS)    | [Asrock H55M-LE](https://www.asrock.com/mb/Intel/H55M-LE/) | FSP 400W |
-|                                                                                                                                                                     | DDR3 Patriot 8Gb |  |                                                            |          |
+<br clear="left" />
+
+## Toolbox
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Python, FastAPI, Node.js, REST APIs, SQLAlchemy, Alembic, Prisma |
+| Frontend | TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS |
+| Data | PostgreSQL, MySQL/MariaDB, SQLite, relational database design |
+| Infrastructure | Linux, Docker, Docker Compose, Nginx, Proxmox VE, LXC, systemd, Bash, Git, GitHub Actions |
+| Systems | C, C++17, C#, CMake, serial communication, cross-platform development |
+| Embedded | RP2040, ESP32/ESP8266, STM32, Arduino/AVR, UART, GPIO |
+| Local AI | Ollama, llama.cpp, Open WebUI, ComfyUI, GGUF models, CPU/GPU inference |
+
+## Hardware lab
+
+The machines below are used for development, virtualization, self-hosted services, testing, and hardware experiments.
+
+### My main workstation PC (Untitled for now, I'm choosing between Sombra, Vendetta, Cobalt, Jaguar, or Aurora)
+
+| Component | Configuration |
+| --- | --- |
+| CPU | AMD Ryzen 7 5700X, 3.6 GHz (4.4 GHz overclock) |
+| GPU | MSI GeForce RTX 3060 Gaming X Trio, 12 GB |
+| Memory | 32 GB DDR4 GOODRAM IRDM PRO Hollow White (2 × 16 GB) |
+| Motherboard | MSI MAG B550 Tomahawk |
+| Storage | Patriot P300 256 GB NVMe (Linux)<br>TeamGroup T253X5480G 480 GB SSD (Windows)<br>WD Blue WD5000AAKX-0 500 GB HDD<br>Toshiba MQ01ABD1 1 TB HDD<br>1 TB RAID 0: Seagate ST500LT012 + Toshiba MQ01ABD0 (2 × 500 GB)<br>Toshiba MK5076GS 500 GB HDD |
+| PSU | be quiet! Pure Power 11, 600 W (BN294) |
+| OS | EndeavourOS with KDE Plasma · Windows 11 LTSC |
+
+### Virtualization server (ProxMox)
+
+| Component | Configuration |
+| --- | --- |
+| CPU | Intel Core i3-10105 |
+| GPU | Intel UHD Graphics 630 |
+| Memory | 32 GB DDR4 (4 × 8 GB) |
+| Motherboard | ASUS ROG Strix B560-A Gaming WiFi |
+| Storage | TeamGroup TM8FP6128G0C101 128 GB NVMe (ProxMox)<br>120 GB SSD (For Minecraft servers)<br>Goldenfir 960 GB SSD (For HFS and Samba fileshare)<br>Patriot 500 GB SSD (For torrents and backups) |
+| PSU | AeroCool SX-400 |
+| OS | Proxmox VE |
+
+### **"HYPERION"** - 2U Rack Server
+
+| Component | Configuration |
+| --- | --- |
+| Chassis | Some 2U AMI* rackmount, 6 drive caddies |
+| Motherboard | Tyan S7050 |
+| CPU | 2 × Intel Xeon E5-2660 v2 |
+| Memory | 48 GB Samsung DDR3 ECC RDIMM (6 × 8 GB, 3 DIMMs per socket) |
+| Storage | Digma DGSR2256GS93T 256 GB SSD<br>Hitachi HTS545050B9A300 500 GB HDD (NTFS; retains data from its previous USB enclosure)<br>Final storage layout TBD |
+| PSU | C2W-5820V redundant PSU (1+1, 820 W), dual AC inputs |
+| Status | Hardware assembly and storage configuration in progress |
+
+\* [AMI](https://www.pcweek.ua/upload/iblock/233/PCWeek_17s.pdf) was a Ukrainian IT company founded in Donetsk in 1992. It [manufactured computers and servers](https://old.apitu.org.ua/node/475) under its own brand before shifting its focus to system integration; the company's head office was later [listed in Kyiv](https://roi4cio.com/catalog/de/supplier-vendor/ami).
+
+<details>
+<summary><strong>Legacy server</strong></summary>
+
+| Component | Configuration |
+| --- | --- |
+| CPU | Intel Xeon X3430, 2.4 GHz |
+| Memory | 16 GB DDR3 (KingSpec 8 GB + Patriot 8 GB) |
+| Motherboard | ASRock H55M-LE |
+| Storage | 120 GB SmartBuy SSD |
+| PSU | FSP 400 W |
+
+</details>
+
+### **"Vesper"** - Mac mini
+
+| Component | Configuration |
+| --- | --- |
+| Model | Apple Mac mini (Late 2014) |
