@@ -2,9 +2,9 @@
 
 <img align="left" width="300" src="./profile/top-langs.svg" alt="Most used languages" />
 
-**Backend / Full-Stack Engineer · Systems Programming Student**
+**Computer Engineering Enthusiast · Hardware & Software Tinkerer**
 
-I build web services and full-stack applications, automate deployments, and maintain Linux infrastructure. My main stack is Python/FastAPI, TypeScript/React/Next.js, PostgreSQL, and Docker. I also work with C/C++, embedded systems, networking, virtualization, and local AI tooling.
+I enjoy working where hardware and software meet: building PCs and homelab servers, experimenting with electronics and circuitry, and writing software for the systems around them. Most of my software experience comes from personal projects and university lab work, including web development, systems programming, embedded devices, networking, virtualization, and local AI tooling.
 
 <br clear="left" />
 
@@ -17,14 +17,16 @@ I build web services and full-stack applications, automate deployments, and main
 | Data | PostgreSQL, MySQL/MariaDB, SQLite, relational database design |
 | DevOps & Self-hosting | Docker, Docker Compose, Nginx, Proxmox VE, LXC, Bash scripting, GitHub Actions |
 | Programming & Build Tools | C, C++17, C#, CMake, Assembly (MASM32, ASM48), cross-platform development |
-| Operating Systems | Windows 3.11–11, Linux (Debian- and Arch-based distributions), macOS 10.13–15, legacy Hackintosh systems\* |
+| Operating Systems | Windows 3.11–11\*, Linux (Debian- and Arch-based distributions), macOS 10.13–15, legacy Hackintosh systems\*\* |
 | Embedded | Arduino/AVR, ESP32/ESP8266, nRF52840, RP2040 |
 | Hardware & Networking | Custom PC builds, custom servers built from consumer hardware, basic MikroTik configuration |
 | CAD & 3D Printing | Autodesk Fusion 360, Anycubic Kobra 2 Neo |
 | Local AI | Ollama, llama.cpp, Open WebUI, ComfyUI, GGUF models, CPU/GPU inference |
 
+\* Windows Server is not included because I have not used it.
+
 <details>
-<summary><strong>* Legacy Hackintosh details</strong></summary>
+<summary><strong>** Legacy Hackintosh details</strong></summary>
 
 This Hackintosh ran on an HP Pavilion dv6-6c51er (Intel Sandy Bridge). It booted through OpenCore in legacy BIOS mode without UEFI, with its SMBIOS configured to identify the system as a 13-inch MacBook Pro (2011).
 
