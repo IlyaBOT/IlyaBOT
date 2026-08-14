@@ -26,7 +26,7 @@ I enjoy working where hardware and software meet: building PCs and homelab serve
 \* Windows Server is not included because I have not used it.
 
 <details>
-<summary><strong>** Legacy Hackintosh details</strong></summary>
+<summary>** Legacy Hackintosh details</summary>
 
 This Hackintosh ran on an HP Pavilion dv6-6c51er (Intel Sandy Bridge). It booted through OpenCore in legacy BIOS mode without UEFI, with its SMBIOS configured to identify the system as a 13-inch MacBook Pro (2011).
 
